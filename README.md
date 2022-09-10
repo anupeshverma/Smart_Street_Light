@@ -1,5 +1,5 @@
 # Built Under 
-# <align="center"> Smart Street Light
+<h1 align="center">Smart Street Light</h1> 
 <p>Smart Streets Lights having wireless connectivity and motion sensors that activate lights when passersby are near.<p/>
 <p>Help in reducing energy consumed thus contributing to sustainable development</p>
 
