@@ -1,5 +1,5 @@
 # Smart_Street_Light
-It has wireless connectivity and motion sensors that activate lights when passersby are near.
+<p>Smart Streets Lights having wireless connectivity and motion sensors that activate lights when passersby are near.<p/>
 
 
 # Features
