@@ -1,6 +1,6 @@
 # Smart_Street_Light
 
-#Features
+# Features
 street lights turn on only when an object movement is detected
 
 ## Tech Stack:
