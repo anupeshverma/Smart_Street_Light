@@ -32,7 +32,7 @@ https://docs.google.com/presentation/d/1-0menHoOS6xvjNK-eWo_UwFODSpFMT0Y/edit?us
    <li>Output Video: https://drive.google.com/file/d/1-LYPqIGNp_dojbq3lDgt3UZ7vyNnVv8U/view?usp=sharing</li>
  </ul>
   
-  ## Tech Stack:
+ # Tech Stack:
 <ul>
   <li>Python</li>
   <li>NumPy</li>
