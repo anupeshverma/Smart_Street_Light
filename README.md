@@ -8,7 +8,9 @@
 <p>Enhance public safety via networked surveillance and  environmental condition monitoring.</p>
 
 ## Tech Stack:
-<p>Python</p>
+<ul>
+  <li><p>Python</p></li>
 <p>NumPy</p>
 <p>OpenCV</p>
 <p>YOLO</p>
+  <ul/>
