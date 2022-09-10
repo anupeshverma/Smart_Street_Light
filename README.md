@@ -17,7 +17,7 @@
   <li>YOLO</li>
  <ul/>
   
-  #Contributers
+  # Contributers
   <ul>
     <li>Anupesh Kumar Verma</li>
     <li>Anushka Chauhan</li>
