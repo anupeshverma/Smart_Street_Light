@@ -3,9 +3,9 @@ It has wireless connectivity and motion sensors that activate lights when passe
 
 
 # Features
-Street lights turn on only when an object movement is detected help to reduce the energy consumed by the streetlights , thus contributing to sustainable development.
-Can be used for broadcasting public announcements in case of emergencies .
-Enhance public safety via networked surveillance and  environmental condition monitoring.
+<p>Street lights turn on only when an object movement is detected help to reduce the energy consumed by the streetlights , thus contributing to sustainable development.</p>
+<p>Can be used for broadcasting public announcements in case of emergencies .</p>
+<p>Enhance public safety via networked surveillance and  environmental condition monitoring.</p>
 
 ## Tech Stack:
 <p>Python</p>
