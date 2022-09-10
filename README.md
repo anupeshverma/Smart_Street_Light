@@ -26,6 +26,12 @@ https://docs.google.com/presentation/d/1-0menHoOS6xvjNK-eWo_UwFODSpFMT0Y/edit?us
   <li>YOLO</li>
  <ul/>
   
+  # Videos
+  ## Motion Detection
+  <ul>
+    <li>Sample Video: https://drive.google.com/file/d/1-E9a2cajSGrd3abuVTFAP_qohzTTkEb5/view?usp=sharing</li>
+    <li>Output Video: https://drive.google.com/file/d/1-8tyOG_Fiq6NKl7tNLMtoXiuWJBR0940/view?usp=sharing</li>
+  
   # Contributers
   <ul>
     <li>Anupesh Kumar Verma</li>
