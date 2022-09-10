@@ -16,6 +16,8 @@
   <li>Parking management, such as alerting officials about illegally parked vehicles or drivers of open spaces.</li>
  </ul>
  
+# Presentation Link
+https://docs.google.com/presentation/d/1-0menHoOS6xvjNK-eWo_UwFODSpFMT0Y/edit?usp=sharing&ouid=118370855782832481229&rtpof=true&sd=true
 ## Tech Stack:
 <ul>
   <li>Python</li>
