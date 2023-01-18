@@ -43,10 +43,10 @@ https://docs.google.com/presentation/d/1-0menHoOS6xvjNK-eWo_UwFODSpFMT0Y/edit?us
   
   # Contributers
   <ul>
-    <li>Anupesh Kumar Verma</li>
+  <li><a href="https://github.com/anupeshverma"> Anupesh Kumar Verma</a></li>
     <li>Anushka Chauhan</li>
     <li>Chowdan Charitha</li>
-    <li>Kandukuri Yashwanth</li>
+    <li><a href="https://github.com/KANDUKURIYASWANTH">Kandukuri Yashwanth</li>
     <li>Ritika Singh</li>
     <li>Shivam Kumar Jaiswal</li>
     <li>Samriddhi Dhiraj</li>
