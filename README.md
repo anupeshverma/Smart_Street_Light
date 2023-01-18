@@ -39,7 +39,7 @@ https://docs.google.com/presentation/d/1-0menHoOS6xvjNK-eWo_UwFODSpFMT0Y/edit?us
   <li>NumPy</li>
   <li>OpenCV</li>
   <li>YOLO</li>
- <ul/>
+ </ul>
   
   # Contributers
   <ul>
