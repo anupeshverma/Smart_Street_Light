@@ -1,13 +1,13 @@
 <h1><img src = "https://github.com/anupeshverma/Smart_Street_Light/blob/main/Robotics3.gif?raw=true" width = "120px" alt = "Robotics Club"/></h1> 
 <h1 align="center">Smart Street Light</h1> 
-<p>Smart Streets Lights having wireless connectivity and motion sensors that activate lights when passersby are near.<p/>
-<p>Help in reducing energy consumed thus contributing to sustainable development</p>
+<p>Smart Streets Lights have wireless connectivity and motion sensors that activate lights when passersby are near.<p/>
+<p>Help in reducing energy consumed thus contributing to sustainable development.</p>
 
 # Features
 <ul>
-  <li>Street lights turn on only when an object movement is detected, help to reduce the energy consumed by the streetlights.</li>
-  <li>Can be used for broadcasting public announcements in case of emergencies .</li>
-  <li>Enhance public safety via networked surveillance and  environmental condition monitoring.</li>
+  <li>Street lights turn on only when an object's movement is detected, helping to reduce the energy consumed by the street lights..</li>
+  <li>Can be used for broadcasting public announcements in case of emergencies.</li>
+  <li>Enhance public safety via networked surveillance and environmental condition monitoring.</li>
  </ul>
 
 # Future Scope
