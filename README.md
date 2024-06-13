@@ -1,4 +1,4 @@
-<h1><img src = "https://github.com/anupeshverma/Smart_Street_Light/blob/main/Robotics3.gif?raw=true" width = "120px" alt = "Robotics Club"/></h1> 
+<p align="center"><img src = "https://github.com/anupeshverma/Smart_Street_Light/blob/main/Robotics3.gif?raw=true" width = "120px" alt = "Robotics Club"/></p> 
 <h1 align="center">Smart Street Light</h1> 
 <p>Smart Streets Lights have wireless connectivity that activates lights when passersby are near.<p/>
 <p>Help in reducing energy consumed thus contributing to sustainable development.</p>
