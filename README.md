@@ -12,7 +12,7 @@
 
 # Future Scope
 <ul>
-  <li>We can forward the stream of camera to license plate of car to get some database.</li>
+  <li>We can forward the stream of the camera to the license plate of the car to get some database.</li>
   <li>Further we will add license plate number detection using which we can give online challan to drivers who exceed the speed limit in that region</li>
   <li>Parking management, such as alerting officials about illegally parked vehicles or drivers of open spaces.</li>
  </ul>
